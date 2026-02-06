@@ -62,6 +62,6 @@ I enjoy building practical software projects, experimenting with AI-powered tool
 ⭐ *Always learning. Always building.*
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
 
