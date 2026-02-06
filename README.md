@@ -62,5 +62,6 @@ I enjoy building practical software projects, experimenting with AI-powered tool
 ⭐ *Always learning. Always building.*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer" />
 </p>
+
