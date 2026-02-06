@@ -60,3 +60,7 @@ I enjoy building practical software projects, experimenting with AI-powered tool
 ---
 
 ⭐ *Always learning. Always building.*
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation" />
+</p>
