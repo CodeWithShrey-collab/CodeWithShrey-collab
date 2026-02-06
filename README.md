@@ -9,11 +9,11 @@
 📍 Nagpur, India  
 
 I enjoy building practical software projects, experimenting with AI-powered tools, and learning how real-world systems are designed and scaled.
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
----
 
 ## 🧠 What I Do
 - 🤖 Explore **AI & Machine Learning fundamentals**
