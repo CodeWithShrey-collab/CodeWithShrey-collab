@@ -10,6 +10,9 @@
 
 I enjoy building practical software projects, experimenting with AI-powered tools, and learning how real-world systems are designed and scaled.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ---
 
 ## 🧠 What I Do
@@ -50,15 +53,6 @@ I enjoy building practical software projects, experimenting with AI-powered tool
 - 🏗️ Building projects to strengthen fundamentals
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithShrey-collab&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeWithShrey-collab&theme=github-dark&hide_border=true" />
-</p>
 
 ## 🤝 Let’s Connect
 - GitHub: [@CodeWithShrey-collab](https://github.com/CodeWithShrey-collab)
@@ -66,6 +60,3 @@ I enjoy building practical software projects, experimenting with AI-powered tool
 ---
 
 ⭐ *Always learning. Always building.*
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
