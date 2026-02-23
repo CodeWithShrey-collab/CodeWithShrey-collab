@@ -56,7 +56,9 @@ I enjoy building practical software projects, experimenting with AI-powered tool
 ## 🌐 Portfolio
 
 🔗 **Personal Portfolio Website**  
-[https://your-portfolio-link.com](https://your-portfolio-link.com)
+<p align="center">
+  🔗 <a href="https://shreys-portfolio.netlify.app/"><b>Visit My Portfolio</b></a>
+</p>
 
 *(Live projects, case studies & detailed breakdowns of my work.)*
 ---
