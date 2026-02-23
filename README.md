@@ -12,7 +12,7 @@ I enjoy building practical software projects, experimenting with AI-powered tool
 ---
 
 <p align="center">
- https://raw.githubusercontent.com/CodeWithShrey-collab/CodeWithShrey-collab/output/github-contribution-grid-snake-dark.svg
+  <img src="https://raw.githubusercontent.com/CodeWithShrey-collab/CodeWithShrey-collab/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ## 🧠 What I Do
