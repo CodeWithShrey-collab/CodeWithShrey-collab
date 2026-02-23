@@ -53,6 +53,13 @@ I enjoy building practical software projects, experimenting with AI-powered tool
 - 🏗️ Building projects to strengthen fundamentals
 
 ---
+## 🌐 Portfolio
+
+🔗 **Personal Portfolio Website**  
+[https://your-portfolio-link.com](https://your-portfolio-link.com)
+
+*(Live projects, case studies & detailed breakdowns of my work.)*
+---
 
 ## 🤝 Let’s Connect
 - GitHub: [@CodeWithShrey-collab](https://github.com/CodeWithShrey-collab)
