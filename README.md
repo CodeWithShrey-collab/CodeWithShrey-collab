@@ -57,7 +57,7 @@ I enjoy building practical software projects, experimenting with AI-powered tool
 
 🔗 **Personal Portfolio Website**  
 <p align="center">
-  🔗 <a href="https://shreys-portfolio.netlify.app/"><b>Visit My Portfolio</b></a>
+  🔗 <a href="https://shreyanknipane.in/"><b>Visit My Portfolio</b></a>
 </p>
 
 *(Live projects, case studies & detailed breakdowns of my work.)*
